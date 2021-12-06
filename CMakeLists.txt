@@ -3,4 +3,5 @@ project(codeforces)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(codeforces src/_4A.cpp src/_4A.cpp)
+#add_executable(codeforces src/_4A.cpp src/_4A.cpp src/_4A.cpp)
+add_executable(codeforces src/_71A.cpp src/_71A.cpp src/_71A.cpp)
