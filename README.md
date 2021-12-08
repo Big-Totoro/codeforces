@@ -3,7 +3,7 @@
 ### Result
 | Overall |
 |---------|
-| 9       |
+| 11      |
 
 ### Problems
 
@@ -18,3 +18,4 @@
 | 263 | [Красивая матрица](https://codeforces.com/problemset/problem/263/A)            |                     |
 | 112 | [Петя и строки](https://codeforces.com/problemset/problem/112/A)               | Строки              |
 | 339 | [Математика спешит на помощь](https://codeforces.com/problemset/problem/339/A) | Строки              |
+| 281 | [Капитализация слова](https://codeforces.com/problemset/problem/281/A)         | Строки              |
