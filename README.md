@@ -3,7 +3,7 @@
 ### Result
 | Overall |
 |---------|
-| 11      |
+| 13      |
 
 ### Problems
 
@@ -19,3 +19,5 @@
 | 112 | [Петя и строки](https://codeforces.com/problemset/problem/112/A)               | Строки              |
 | 339 | [Математика спешит на помощь](https://codeforces.com/problemset/problem/339/A) | Строки              |
 | 281 | [Капитализация слова](https://codeforces.com/problemset/problem/281/A)         | Строки              |
+| 266 | [Камни на столе](https://codeforces.com/problemset/problem/266/A)              | Строки              |
+| 236 | [Девушка или Юноша](https://codeforces.com/problemset/problem/236/A)           | Строки              |
