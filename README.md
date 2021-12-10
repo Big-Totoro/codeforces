@@ -3,7 +3,7 @@
 ### Result
 | Overall |
 |---------|
-| 13      |
+| 15      |
 
 ### Problems
 
@@ -21,3 +21,4 @@
 | 281 | [Капитализация слова](https://codeforces.com/problemset/problem/281/A)         | Строки              |
 | 266 | [Камни на столе](https://codeforces.com/problemset/problem/266/A)              | Строки              |
 | 236 | [Девушка или Юноша](https://codeforces.com/problemset/problem/236/A)           | Строки              |
+| 791 | [Мишка и старший брат](https://codeforces.com/problemset/problem/791/A)        | Строки              |
