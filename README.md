@@ -3,7 +3,7 @@
 ### Result
 | Overall |
 |---------|
-| 15      |
+| 16      |
 
 ### Problems
 
@@ -22,3 +22,4 @@
 | 266 | [Камни на столе](https://codeforces.com/problemset/problem/266/A)              | Строки              |
 | 236 | [Девушка или Юноша](https://codeforces.com/problemset/problem/236/A)           | Строки              |
 | 791 | [Мишка и старший брат](https://codeforces.com/problemset/problem/791/A)        | Строки              |
+| 617 | [Слоник](https://codeforces.com/problemset/problem/617/A)                      | Математика          |
