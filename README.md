@@ -3,7 +3,7 @@
 ### Result
 | Overall |
 |---------|
-| 16      |
+| 18      |
 
 ### Problems
 
@@ -23,3 +23,6 @@
 | 236 | [Девушка или Юноша](https://codeforces.com/problemset/problem/236/A)           | Строки              |
 | 791 | [Мишка и старший брат](https://codeforces.com/problemset/problem/791/A)        | Строки              |
 | 617 | [Слоник](https://codeforces.com/problemset/problem/617/A)                      | Математика          |
+| 977 | [Неправильное вычитание](https://codeforces.com/problemset/problem/977/A)      | Математика          |
+| 59  | [Слово](https://codeforces.com/problemset/problem/59/A)                        | Строки              |
+
