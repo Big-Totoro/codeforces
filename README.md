@@ -3,7 +3,7 @@
 ### Result
 | Overall |
 |---------|
-| 19      |
+| 20      |
 
 ### Problems
 
@@ -26,4 +26,6 @@
 | 977 | [Неправильное вычитание](https://codeforces.com/problemset/problem/977/A)      | Математика          |
 | 59  | [Слово](https://codeforces.com/problemset/problem/59/A)                        | Строки              |
 | 116 | [Трамвай](https://codeforces.com/problemset/problem/116/A)                     | Строки              |
+| 266 | [Трамвай](https://codeforces.com/problemset/problem/266/B)                     |                     |
+
 
